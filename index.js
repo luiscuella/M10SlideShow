@@ -1,4 +1,4 @@
-var myImages =["Html_Validator.PNG","CSS_Validator.PNG","http://www.think-aboutit.com/wp-content/uploads/2015/05/Outback-Australia2.jpg","https://www.nationsonline.org/gallery/Dominican-Republic/El-Morro.jpg","https://www.roadaffair.com/wp-content/uploads/2017/09/negril-cliffs-jamaica-shutterstock_553342135.jpg"];
+var myImages =["Html_Validator.PNG","CSS_Validator.PNG","Speed_Validator.PNG "];
 
 
 

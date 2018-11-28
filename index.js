@@ -1,4 +1,4 @@
-var myImages =["Html_Validator.PNG","https://livingnomads.com/wp-content/uploads/2017/07/11/Shinjuku-Tokyo2.jpg","http://www.think-aboutit.com/wp-content/uploads/2015/05/Outback-Australia2.jpg","https://www.nationsonline.org/gallery/Dominican-Republic/El-Morro.jpg","https://www.roadaffair.com/wp-content/uploads/2017/09/negril-cliffs-jamaica-shutterstock_553342135.jpg"];
+var myImages =["Html_Validator.PNG","CSS_Validator.PNG","http://www.think-aboutit.com/wp-content/uploads/2015/05/Outback-Australia2.jpg","https://www.nationsonline.org/gallery/Dominican-Republic/El-Morro.jpg","https://www.roadaffair.com/wp-content/uploads/2017/09/negril-cliffs-jamaica-shutterstock_553342135.jpg"];
 
 
 
